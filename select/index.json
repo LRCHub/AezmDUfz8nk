@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "(168)日のサマー",
+  "base_artist": "the quiet room",
+  "createdAt": "2025-12-16T19:01:20.622017Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "(168)日のサマー",
+      "artist": "the quiet room",
+      "has_synced": false,
+      "path": "select/pl_01_(168)日のサマー_the_quiet_room.txt"
+    }
+  ]
+}
